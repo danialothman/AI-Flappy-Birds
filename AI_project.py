@@ -17,7 +17,7 @@ BIRD = "imgs/bird1.png"
 BG = "imgs/bg.png"
 PIPE = "imgs/pipe.png"
 Q = numpy.zeros((7, 21, 2), dtype=float)
-FPS = 30  # Reduced from 32 to 30 for better control
+FPS = 60  # Reduced from 32 to 30 for better control
 
 
 def static():
